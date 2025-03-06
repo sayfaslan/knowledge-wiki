@@ -1,12 +1,12 @@
 # Study Plan for Engineering
 
 ## **Updated Study Plan for:**
+- **Engineering Mathematics**
 - **Mechanical Engineering**
 - **Electronic Engineering**
 - **Robotics Engineering**
-- **Embedded Software Development**
-- **Engineering Mathematics**
 - **Optical Engineering**
+- **Embedded Software Development**
 
 ---
 
