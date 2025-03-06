@@ -1,7 +1,5 @@
 # Study Plan for Engineering
 
----
-
 ## **Updated Study Plan for:**
 - **Mechanical Engineering**
 - **Electronic Engineering**
