@@ -6,6 +6,7 @@
 - **Robotics**
 - **Embedded Software Development**
 - **Engineering Mathematics**
+- **Optical Engineering**
 
 ---
 
@@ -15,7 +16,7 @@
 2. **Phase 2: Core Knowledge Development (Years 3–5)**  
    Deep dive into theory and practical applications, including labs and projects.
 3. **Phase 3: Specialization and Integration (Years 6–8)**  
-   Combine knowledge to design, manufacture, and program complex systems.
+   Combine knowledge to design, manufacture, and program complex systems, including optical systems.
 
 ---
 
@@ -35,7 +36,7 @@
   - **Time Commitment:** 2 hours/day.
 
 - **Physics:**
-  - **Topics:** Mechanics, Thermodynamics, Electricity and Magnetism.
+  - **Topics:** Mechanics, Thermodynamics, Electricity and Magnetism, Optics (introductory).
   - **Resources:**
     - *Books (English):* "University Physics" by Young and Freedman.
     - *Books (Russian):* "Общий курс физики" Д. В. Сивухин, "Физика" Г. Я. Мякишев.
@@ -43,7 +44,7 @@
     - *Online Courses (Russian):* [Лекториум (Физика)](https://www.lektorium.tv), [Coursera (Основы физики)](https://www.coursera.org).
     - *YouTube Playlists:*
       - [MIT 8.01 Classical Mechanics (Walter Lewin)](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
-      - [Physics by Eugene Khutoryansky](https://www.youtube.com/playlist?list=PLWFlMBumSLSZsQkXx6XWlz0Z0ZQ5Z0Z0Z)
+      - [Optics Basics (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ6YqZQz7H7Q7Z7Q7Z7Q7Z7)
   - **Time Commitment:** 2 hours/day.
 
 - **Programming:**
@@ -85,16 +86,16 @@
       - [Digital Electronics (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
   - **Time Commitment:** 1 hour/day.
 
-- **Robotics Basics:**
-  - **Topics:** Robot Kinematics, Sensors, Actuators.
+- **Optical Engineering Basics:**
+  - **Topics:** Geometrical Optics, Wave Optics, Optical Materials.
   - **Resources:**
-    - *Books (English):* "Introduction to Robotics" by John J. Craig.
-    - *Books (Russian):* "Основы робототехники" В. А. Гололобов.
-    - *Online Courses (English):* [Coursera (Robotics Specialization by UPenn)](https://www.coursera.org).
-    - *Online Courses (Russian):* [Coursera (Робототехника)](https://www.coursera.org).
+    - *Books (English):* "Introduction to Optics" by Frank L. Pedrotti, "Optics" by Eugene Hecht.
+    - *Books (Russian):* "Оптика" Г. С. Ландсберг, "Основы оптики" М. Борн и Э. Вольф.
+    - *Online Courses (English):* [Coursera (Introduction to Optical Engineering)](https://www.coursera.org), [edX (Optics and Photonics)](https://www.edx.org).
+    - *Online Courses (Russian):* [Лекториум (Оптика)](https://www.lektorium.tv), [Coursera (Основы оптики)](https://www.coursera.org).
     - *YouTube Playlists:*
-      - [Introduction to Robotics (Stanford)](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF)
-      - [Robotics (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUbx1l)
+      - [Optics and Photonics (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ6YqZQz7H7Q7Z7Q7Z7Q7Z7)
+      - [Geometrical Optics (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ESOhgS9maZ1J6Z6dVy6X6)
   - **Time Commitment:** 1 hour/day.
 
 ---
@@ -126,28 +127,16 @@
       - [Microcontrollers (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
   - **Time Commitment:** 1 hour/day.
 
-- **Robotics:**
-  - **Topics:** Robot Kinematics, Dynamics, Control Systems.
+- **Optical Engineering:**
+  - **Topics:** Lens Design, Optical Systems, Photonics.
   - **Resources:**
-    - *Books (English):* "Robot Modeling and Control" by Spong et al.
-    - *Books (Russian):* "Робототехника и автоматизация" В. А. Гололобов.
-    - *Online Courses (English):* [Coursera (Robotics Specialization)](https://www.coursera.org).
-    - *Online Courses (Russian):* [Coursera (Робототехника)](https://www.coursera.org).
+    - *Books (English):* "Lens Design Fundamentals" by Rudolf Kingslake, "Photonics: Optical Electronics in Modern Communications" by Amnon Yariv.
+    - *Books (Russian):* "Основы проектирования оптических систем" В. А. Зверев.
+    - *Online Courses (English):* [Coursera (Optical Engineering)](https://www.coursera.org), [edX (Photonics)](https://www.edx.org).
+    - *Online Courses (Russian):* [Лекториум (Оптические системы)](https://www.lektorium.tv).
     - *YouTube Playlists:*
-      - [Introduction to Robotics (Stanford)](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF)
-      - [Control Systems (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ6YqZQz7H7Q7Z7Q7Z7Q7Z7)
-  - **Time Commitment:** 1 hour/day.
-
-- **Embedded Software Development:**
-  - **Topics:** Embedded C, RTOS, IoT.
-  - **Resources:**
-    - *Books (English):* "Embedded C Programming" by Mark Siegesmund, "Real-Time Systems" by Jane W. S. Liu.
-    - *Books (Russian):* "Программирование микроконтроллеров на C" А. В. Евстифеев.
-    - *Online Courses (English):* [Udemy (Embedded Systems with ARM Cortex-M)](https://www.udemy.com).
-    - *Online Courses (Russian):* [Stepik (Встроенные системы)](https://stepik.org).
-    - *YouTube Playlists:*
-      - [Embedded Systems (Fastbit Academy)](https://www.youtube.com/playlist?list=PLERTijJOmYrAtflt2Zz7zB6hB8ZbZq7lN)
-      - [IoT (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ6YqZQz7H7Q7Z7Q7Z7Q7Z7)
+      - [Optical Engineering (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ6YqZQz7H7Q7Z7Q7Z7Q7Z7)
+      - [Photonics (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ESOhgS9maZ1J6Z6dVy6X6)
   - **Time Commitment:** 1 hour/day.
 
 ---
@@ -157,6 +146,7 @@
   - Build a small robot (e.g., line-following robot).
   - Design and simulate a mechanical system (e.g., gearbox).
   - Develop an embedded system (e.g., temperature controller).
+  - Design an optical system (e.g., simple microscope or telescope).
   - **Resources (English):** [YouTube tutorials](https://www.youtube.com), [Hackster.io](https://www.hackster.io), [Instructables](https://www.instructables.com).
   - **Resources (Russian):** [Хабрахабр](https://habr.com), [YouTube (каналы по робототехнике)](https://www.youtube.com).
   - **Time Commitment:** 4 hours/day (project-based).
@@ -170,8 +160,9 @@
   - Design and build a robotic arm with embedded control.
   - Develop an autonomous drone with custom electronics and software.
   - Create a smart home automation system.
+  - Design and build an advanced optical system (e.g., laser-based communication system).
 - **Specialization:**
-  - Choose one area to specialize in (e.g., Robotics, Embedded Systems).
+  - Choose one area to specialize in (e.g., Robotics, Embedded Systems, Optical Engineering).
   - **Resources (English):** Research papers, advanced courses, industry certifications.
   - **Resources (Russian):** Научные статьи, продвинутые курсы, профессиональные сертификации.
 - **Time Commitment:** 4 hours/day (project-based).
@@ -185,7 +176,7 @@
 | **Monday**    | Math (2h), Mechanical Engineering (1h), Programming (1h)                   |
 | **Tuesday**   | Physics (2h), Electronic Engineering (1h), Robotics (1h)                   |
 | **Wednesday** | Math (2h), Embedded Systems (1h), Programming (1h)                         |
-| **Thursday**  | Physics (2h), Mechanical Engineering (1h), Electronic Engineering (1h)     |
+| **Thursday**  | Physics (2h), Mechanical Engineering (1h), Optical Engineering (1h)        |
 | **Friday**    | Math (2h), Robotics (1h), Embedded Systems (1h)                            |
 | **Saturday**  | Review and Practice Problems (4h)                                          |
 | **Sunday**    | Rest or Optional Reading (e.g., Engineering News, Research Papers)         |
