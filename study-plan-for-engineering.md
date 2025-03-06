@@ -3,7 +3,7 @@
 ## **Updated Study Plan for:**
 - **Mechanical Engineering**
 - **Electronic Engineering**
-- **Robotics**
+- **Robotics Engineering**
 - **Embedded Software Development**
 - **Engineering Mathematics**
 - **Optical Engineering**
@@ -16,7 +16,7 @@
 2. **Phase 2: Core Knowledge Development (Years 3–5)**  
    Deep dive into theory and practical applications, including labs and projects.
 3. **Phase 3: Specialization and Integration (Years 6–8)**  
-   Combine knowledge to design, manufacture, and program complex systems, including optical systems.
+   Combine knowledge to design, manufacture, and program complex systems, including robotics and optical systems.
 
 ---
 
@@ -86,6 +86,18 @@
       - [Digital Electronics (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
   - **Time Commitment:** 1 hour/day.
 
+- **Robotics Engineering Basics:**
+  - **Topics:** Robot Kinematics, Sensors, Actuators, Control Systems.
+  - **Resources:**
+    - *Books (English):* "Introduction to Robotics" by John J. Craig, "Robotics: Modelling, Planning and Control" by Bruno Siciliano.
+    - *Books (Russian):* "Основы робототехники" В. А. Гололобов.
+    - *Online Courses (English):* [Coursera (Robotics Specialization by UPenn)](https://www.coursera.org).
+    - *Online Courses (Russian):* [Coursera (Робототехника)](https://www.coursera.org).
+    - *YouTube Playlists:*
+      - [Introduction to Robotics (Stanford)](https://www.youtube.com/playlist?list=PL65CC0384A1798ADF)
+      - [Robotics (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJSyt80VRXYC-YrAvQuUbx1l)
+  - **Time Commitment:** 1 hour/day.
+
 - **Optical Engineering Basics:**
   - **Topics:** Geometrical Optics, Wave Optics, Optical Materials.
   - **Resources:**
@@ -125,6 +137,18 @@
     - *YouTube Playlists:*
       - [MIT 6.002 Circuits and Electronics](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ESOhgS9maZ1J6Z6dVy6X6)
       - [Microcontrollers (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+  - **Time Commitment:** 1 hour/day.
+
+- **Robotics Engineering:**
+  - **Topics:** Robot Dynamics, Control Systems, Perception.
+  - **Resources:**
+    - *Books (English):* "Robot Modeling and Control" by Spong et al., "Probabilistic Robotics" by Thrun, Burgard, and Fox.
+    - *Books (Russian):* "Робототехника и автоматизация" В. А. Гололобов.
+    - *Online Courses (English):* [Coursera (Robotics Specialization)](https://www.coursera.org).
+    - *Online Courses (Russian):* [Coursera (Робототехника)](https://www.coursera.org).
+    - *YouTube Playlists:*
+      - [Control Systems (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ6YqZQz7H7Q7Z7Q7Z7Q7Z7)
+      - [Robot Perception (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ESOhgS9maZ1J6Z6dVy6X6)
   - **Time Commitment:** 1 hour/day.
 
 - **Optical Engineering:**
